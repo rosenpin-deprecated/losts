@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoLosts</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">KiZIPv2r46JNccDuBeqT7hjtn93apZsxmnMAPyUX</string>
+    <string name="back4app_client_key">NFFgjMpLg3n7SJRH5YhhdmziwrgDKIqHJCSV2YjL</string>
+</resources>
